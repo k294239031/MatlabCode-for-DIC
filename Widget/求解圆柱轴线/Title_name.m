@@ -1,0 +1,20 @@
+title_name.num1='Initial Step';
+title_name.num2='Step 1 (150kN)';
+title_name.num3='Step 2 (340kN)';
+title_name.num4='Step 3 (520kN)';
+title_name.num5='Step 4 (700kN)';
+title_name.num6='Step 5 (895kN)';
+title_name.num7='Step 6 (1080kN)';
+title_name.num8='Step 7 (1270kN)';
+title_name.num9='Step 8 (1455kN)';
+title_name.num10='Step 9 (1640kN)';
+title_name.num11='Step 10 (1830kN)';
+title_name.num12='Step 11 (2010kN)';
+title_name.num13='Step 12 (2200kN)';
+title_name.num14='Step 13 (2385kN)';
+title_name.num15='Step 14 (2575kN)';
+title_name.num16='Step 15 (2760kN)';
+title_name.num17='Step 16 Unload (2575kN)';
+title_name.num18='Step 17 Unload (2385kN)';
+title_name.num18='Step 18 Unload (2200kN)';
+eval(['title(title_name.num',num2str(file_num),',''FontWeight'',''bold'');'])
